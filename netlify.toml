@@ -1,0 +1,10 @@
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+# Optionally set environment variables for Netlify in the UI or here (not recommended for secrets)
+# [context.production.environment]
+#   NEXT_PUBLIC_API_URL = "https://api.example.com"

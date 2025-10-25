@@ -1,0 +1,1062 @@
+{
+  "site_title": "The Eigen Society | Mathematics Club of IIM Sambalpur",
+  "homepage": {
+    "headline": [
+      "Exploring the Beauty of Mathematics Through Innovation, Collaboration, and Analytical Thinking",
+      "Transforming Mathematical Concepts into Real-World Solutions",
+      "Where Mathematical Minds Converge to Solve, Innovate, and Lead"
+    ],
+    "sub_headline": [
+      "Join a community of problem-solvers dedicated to advancing mathematical knowledge at IIM Sambalpur",
+      "Discover the elegance of mathematical thinking in business, technology, and beyond"
+    ],
+    "lede": "The Eigen Society is IIM Sambalpur's premier mathematics club fostering analytical thinking, research collaboration, and practical applications of mathematical concepts across disciplines.",
+    "feature_sections": [
+      {
+        "title": "Member Spotlight",
+        "content": "Celebrating Priya Sharma's innovative application of graph theory to optimize supply chain networks, winning the National Mathematics Competition 2023.",
+        "cta": "Read More About Our Members"
+      },
+      {
+        "title": "Upcoming Events",
+        "content": "Join us for our weekly problem-solving sessions, monthly guest lectures, and annual mathematics symposium.",
+        "cta": "View All Events"
+      },
+      {
+        "title": "Research Highlights",
+        "content": "Explore our latest student-led research on applications of eigenvalues in data compression algorithms.",
+        "cta": "Explore Research"
+      }
+    ],
+    "CTAs": [
+      "Become a Member",
+      "Explore Our Research",
+      "Join an Event",
+      "The Eigen Society welcomes students passionate about mathematics to join our community of problem-solvers. Gain access to exclusive workshops, research opportunities, mentorship from faculty experts, and a network of like-minded peers. Take your mathematical journey to the next level with us."
+    ]
+  },
+  "about": {
+    "mission": "The Eigen Society aims to foster mathematical excellence through collaborative learning, research, and practical applications, creating a vibrant community that bridges theoretical concepts with real-world challenges.",
+    "vision": "To be recognized as a leading student mathematics society that empowers members to become innovative problem-solvers and thought leaders in their fields, while advancing mathematical knowledge and its applications.",
+    "values": [
+      {
+        "title": "Intellectual Curiosity",
+        "description": "We encourage continuous questioning and exploration of mathematical concepts."
+      },
+      {
+        "title": "Collaborative Learning",
+        "description": "We believe in the power of diverse perspectives in problem-solving."
+      },
+      {
+        "title": "Analytical Rigor",
+        "description": "We uphold high standards of mathematical precision and logical thinking."
+      },
+      {
+        "title": "Practical Application",
+        "description": "We bridge theoretical mathematics with real-world challenges."
+      },
+      {
+        "title": "Inclusive Excellence",
+        "description": "We welcome and support all students interested in mathematics, regardless of background."
+      }
+    ],
+    "history": "Founded in 2018 by a group of passionate mathematics students at IIM Sambalpur, The Eigen Society began as an informal study group and has evolved into a structured organization with over 150 members. Named after the fundamental concept of eigenvalues in linear algebra, our society has established annual competitions, a peer-reviewed journal, and partnerships with industry leaders and academic institutions across India."
+  },
+  "membership": {
+    "criteria": [
+      {
+        "title": "Academic Eligibility",
+        "requirements": [
+          "Minimum CGPA of 3.0/4.0 or 7.5/10",
+          "Successful completion of at least one mathematics course at IIM Sambalpur",
+          "Recommendation from a faculty member (for Research Membership tier)"
+        ]
+      },
+      {
+        "title": "Member Commitments",
+        "requirements": [
+          "Attend at least 3 events per semester",
+          "Participate in at least 1 problem-solving workshop annually",
+          "Contribute to society activities (event organization, research, or outreach)",
+          "Uphold the society's code of conduct and values"
+        ]
+      }
+    ],
+    "tiers": [
+      {
+        "name": "Basic (Student)",
+        "fee": "₹500 per academic year",
+        "benefits": [
+          "Access to all regular events and workshops",
+          "Participation in competitions",
+          "Access to society resources and problem sets",
+          "Networking opportunities with peers and faculty"
+        ]
+      },
+      {
+        "name": "Research Member",
+        "fee": "₹800 per academic year",
+        "benefits": [
+          "All Basic membership benefits",
+          "Priority access to research mentorship",
+          "Eligibility to publish in the society journal",
+          "Access to research grants and travel funding",
+          "Exclusive research workshops and seminars"
+        ]
+      },
+      {
+        "name": "Alumni / Lifetime",
+        "fee": "₹5,000 one-time",
+        "benefits": [
+          "Permanent access to society resources",
+          "Invitation to special events and reunions",
+          "Mentorship opportunities for current students",
+          "Recognition on the society website",
+          "Networking with other alumni members"
+        ]
+      },
+      {
+        "name": "Faculty Advisor",
+        "fee": "Free",
+        "benefits": [
+          "Opportunity to guide student research",
+          "Collaboration with other faculty members",
+          "Recognition for academic service",
+          "Participation in society governance",
+          "Access to student talent for research assistance"
+        ]
+      }
+    ],
+    "benefits": [
+      "Access to exclusive workshops and seminars",
+      "Networking with faculty and industry professionals",
+      "Opportunities to present and publish research",
+      "Eligibility for grants and awards",
+      "Leadership and organizational experience",
+      "Resume enhancement and professional development",
+      "Access to problem sets and learning resources",
+      "Participation in national and international competitions"
+    ],
+    "join_flow": [
+      {
+        "step": "Application",
+        "description": "Complete the online membership application form with your academic information and interest in mathematics.",
+        "form_fields": [
+          "Full Name",
+          "Student ID",
+          "Email Address",
+          "Phone Number",
+          "Programme of Study",
+          "Year of Study",
+          "Mathematics Courses Completed",
+          "Current CGPA",
+          "Areas of Mathematical Interest",
+          "Brief Statement of Interest (250 words)",
+          "Membership Tier Selection",
+          "Faculty Reference (if applying for Research Membership)"
+        ]
+      },
+      {
+        "step": "Review",
+        "description": "Applications are reviewed by the membership committee within 7 days."
+      },
+      {
+        "step": "Payment",
+        "description": "Upon approval, complete the membership fee payment through the online portal or at the society office."
+      },
+      {
+        "step": "Confirmation",
+        "description": "Receive your membership confirmation email and welcome package.",
+        "email_template": "Dear [Name],\n\nCongratulations! We are delighted to welcome you as a [Membership Tier] member of The Eigen Society at IIM Sambalpur.\n\nYour membership is now active and valid until [End Date]. Your membership ID is [ID].\n\nAs a member, you now have access to:\n- Our upcoming events and workshops\n- The members-only section of our website\n- Our problem-solving resources and research materials\n- Networking opportunities with peers and faculty\n\nOur next event is [Event Name] on [Date] at [Time], [Location]. We hope to see you there!\n\nPlease join our WhatsApp group using this link: [Link] and follow us on social media to stay updated.\n\nIf you have any questions, please don't hesitate to contact us at eigen.society@iimsambalpurstudent.ac.in.\n\nWelcome to the mathematical community!\n\nWarm regards,\n[President Name]\nPresident, The Eigen Society\nIIM Sambalpur"
+      },
+      {
+        "step": "Orientation",
+        "description": "Attend the new member orientation session to learn about society activities and meet other members."
+      }
+    ],
+    "consent_text": "By submitting this form, I consent to The Eigen Society collecting and processing my personal information for the purpose of membership administration. This information will be used to communicate with me about society activities, process my membership, and maintain records as required. I understand that my information will not be shared with third parties without my consent, except as required by law. I can withdraw my consent at any time by contacting the society. For more information on how we handle your data, please see our Privacy Policy."
+  },
+  "events": {
+    "event_types": [
+      {
+        "type": "Weekly Problem-Solving Sessions",
+        "frequency": "Every Wednesday, 5:00-6:30 PM",
+        "description": "Collaborative sessions where members tackle challenging mathematical problems across various domains.",
+        "format": "In-person and virtual hybrid"
+      },
+      {
+        "type": "Monthly Guest Lectures",
+        "frequency": "First Friday of each month, 4:00-5:30 PM",
+        "description": "Talks by faculty, industry professionals, and visiting academics on mathematical topics and applications.",
+        "format": "In-person with live streaming"
+      },
+      {
+        "type": "Research Workshops",
+        "frequency": "Bi-monthly, weekends",
+        "description": "Hands-on workshops focusing on research methodologies, tools, and current trends in mathematical research.",
+        "format": "In-person, full-day sessions"
+      },
+      {
+        "type": "Annual Mathematics Symposium",
+        "frequency": "February each year",
+        "description": "A three-day event featuring presentations, competitions, and networking opportunities with mathematicians from across India.",
+        "format": "In-person conference"
+      },
+      {
+        "type": "Industry Connect Sessions",
+        "frequency": "Quarterly",
+        "description": "Interactive sessions with industry professionals showcasing real-world applications of mathematics in business and technology.",
+        "format": "Panel discussions and case studies"
+      }
+    ],
+    "sample_event_page": {
+      "title": "Eigenvalues and Their Applications in Machine Learning",
+      "date": "October 15, 2023",
+      "time": "4:00 PM - 5:30 PM IST",
+      "location": "Lecture Hall 3, Academic Block, IIM Sambalpur",
+      "format": "In-person with live streaming",
+      "registration_link": "#register",
+      "abstract": "This lecture explores the fundamental role of eigenvalues and eigenvectors in machine learning algorithms, particularly in dimensionality reduction techniques like Principal Component Analysis (PCA). We will discuss how these mathematical concepts enable efficient data processing and feature extraction, with practical examples from image recognition and natural language processing applications. The session will include both theoretical foundations and coding demonstrations using Python and NumPy.",
+      "speaker": {
+        "name": "Dr. Priya Sharma",
+        "title": "Associate Professor, Department of Mathematics, IIT Bombay",
+        "bio": "Dr. Sharma specializes in linear algebra and its applications in machine learning. With over 15 years of research experience and numerous publications in top-tier journals, she bridges theoretical mathematics with practical applications. Prior to her academic career, she worked as a data scientist at Microsoft Research, developing algorithms for computer vision applications.",
+        "photo_alt": "Headshot of Dr. Priya Sharma smiling in professional attire against a neutral background"
+      },
+      "agenda": [
+        "4:00 - 4:10 PM: Introduction and welcome",
+        "4:10 - 4:40 PM: Lecture on eigenvalues in machine learning",
+        "4:40 - 5:00 PM: Practical demonstrations and code examples",
+        "5:00 - 5:25 PM: Q&A session",
+        "5:25 - 5:30 PM: Closing remarks and announcements"
+      ],
+      "prerequisites": "Basic understanding of linear algebra and familiarity with Python programming. Recommended for students who have completed at least one course in mathematics or computer science.",
+      "materials": "Participants are encouraged to bring laptops for the coding demonstration portion. Slides and code samples will be shared after the event.",
+      "rsvp_form": {
+        "fields": [
+          "Full Name",
+          "Email",
+          "Student/Faculty ID",
+          "Department/Programme",
+          "Are you a member of The Eigen Society? (Yes/No)",
+          "Do you plan to attend in-person or virtually?",
+          "Any specific questions for the speaker?"
+        ]
+      },
+      "promo_copy": "Don't miss this opportunity to learn how eigenvalues—a fundamental concept in linear algebra—power some of today's most innovative machine learning algorithms. Dr. Priya Sharma, a leading expert in the field, will break down complex mathematical concepts into accessible insights with real-world applications. Whether you're a mathematics enthusiast, a computer science student, or simply curious about how math drives AI, this session will expand your understanding and inspire new connections. Limited seats available for in-person attendance—register now!"
+    },
+    "annual_calendar": [
+      {
+        "month": "August",
+        "events": [
+          "New Member Recruitment Drive (First two weeks)",
+          "Orientation Session for New Members (Third week)",
+          "Problem-Solving Workshop: Foundations (Last week)"
+        ]
+      },
+      {
+        "month": "September-November",
+        "events": [
+          "Weekly Problem-Solving Sessions (Every Wednesday)",
+          "Monthly Guest Lectures (First Friday)",
+          "Research Workshop: Literature Review Methods (September, third weekend)",
+          "Industry Connect: Mathematics in Finance (October, second week)",
+          "Research Workshop: Data Analysis Tools (November, third weekend)"
+        ]
+      },
+      {
+        "month": "December",
+        "events": [
+          "End-of-Semester Competition (First week)",
+          "Winter Research Project Kickoff (Second week)",
+          "Holiday Mathematical Game Night (Last week before break)"
+        ]
+      },
+      {
+        "month": "January-March",
+        "events": [
+          "Weekly Problem-Solving Sessions Resume (Every Wednesday)",
+          "Monthly Guest Lectures (First Friday)",
+          "Annual Mathematics Symposium (February, second week)",
+          "Research Workshop: Paper Writing (March, third weekend)",
+          "Industry Connect: Mathematics in Technology (January, third week)"
+        ]
+      },
+      {
+        "month": "April",
+        "events": [
+          "Research Showcase (First week)",
+          "Elections for Next Year's Leadership (Second week)",
+          "End-of-Year Celebration and Awards (Last week)"
+        ]
+      },
+      {
+        "month": "May-July",
+        "events": [
+          "Summer Research Projects",
+          "Online Problem-Solving Challenges",
+          "Leadership Transition and Planning for Next Academic Year"
+        ]
+      }
+    ]
+  },
+  "programs_and_competitions": {
+    "competitions": [
+      {
+        "name": "Eigen Challenge",
+        "frequency": "Annual (November)",
+        "description": "A rigorous problem-solving competition testing mathematical creativity and analytical skills across algebra, calculus, statistics, and discrete mathematics.",
+        "eligibility": "All undergraduate and postgraduate students from IIM Sambalpur and invited institutions",
+        "prizes": "Cash prizes totaling ₹25,000, certificates, and recognition at the Annual Symposium"
+      },
+      {
+        "name": "Mathematical Modeling Contest",
+        "frequency": "Bi-annual (September and February)",
+        "description": "Teams tackle real-world problems using mathematical modeling techniques, with cases drawn from business, environmental science, and public policy.",
+        "eligibility": "Teams of 2-3 students, at least one member must be from IIM Sambalpur",
+        "prizes": "₹15,000 for winning team, industry mentorship opportunities, and publication in the society journal"
+      },
+      {
+        "name": "Rapid Fire Mathematics Quiz",
+        "frequency": "Quarterly",
+        "description": "Fast-paced quiz testing mathematical knowledge, history, and applications with individual and team rounds.",
+        "eligibility": "Open to all IIM Sambalpur students",
+        "prizes": "Gift vouchers, mathematics books, and society merchandise"
+      },
+      {
+        "name": "Research Paper Competition",
+        "frequency": "Annual (January submission deadline)",
+        "description": "Competition for original research papers in pure and applied mathematics, with emphasis on innovation and practical applications.",
+        "eligibility": "Undergraduate and postgraduate students, individual or team submissions",
+        "prizes": "Publication in society journal, ₹20,000 prize, and opportunity to present at the Annual Symposium"
+      }
+    ],
+    "workshops": [
+      {
+        "name": "Mathematical Software Workshop Series",
+        "description": "Hands-on training in essential mathematical software including MATLAB, R, Python for data analysis, and LaTeX for mathematical writing.",
+        "frequency": "Monthly, rotating topics",
+        "format": "3-hour practical sessions with take-home exercises"
+      },
+      {
+        "name": "Research Methodology Workshop",
+        "description": "Comprehensive training on conducting mathematical research, from problem formulation to literature review, methodology selection, and paper writing.",
+        "frequency": "Bi-annual (August and January)",
+        "format": "Full-day workshop with follow-up mentoring"
+      },
+      {
+        "name": "Mathematical Applications in Business",
+        "description": "Workshops connecting mathematical concepts to business applications including optimization, forecasting, risk analysis, and decision theory.",
+        "frequency": "Quarterly",
+        "format": "Case-based learning with industry speakers"
+      },
+      {
+        "name": "Competitive Problem-Solving Bootcamp",
+        "description": "Intensive training for mathematics competitions, covering problem-solving strategies, common techniques, and practice with past competition problems.",
+        "frequency": "Annual (September, before competition season)",
+        "format": "Weekend bootcamp with team and individual practice"
+      }
+    ],
+    "mentorship": [
+      {
+        "name": "Faculty-Student Research Partnerships",
+        "description": "Matching students with faculty mentors for collaborative research projects in mathematics and its applications.",
+        "structure": "Semester-long partnerships with weekly meetings",
+        "outcomes": "Joint research papers, conference presentations, and skill development"
+      },
+      {
+        "name": "Peer Mentoring Program",
+        "description": "Pairing experienced society members with newcomers to provide guidance on academic pathways, research opportunities, and society involvement.",
+        "structure": "Bi-weekly meetings throughout the academic year",
+        "outcomes": "Improved retention, academic performance, and society engagement"
+      },
+      {
+        "name": "Industry Mentorship",
+        "description": "Connecting students with mathematics professionals in industry for career guidance and applied project mentorship.",
+        "structure": "Monthly virtual meetings and quarterly in-person sessions",
+        "outcomes": "Internship opportunities, career guidance, and applied project experience"
+      },
+      {
+        "name": "Research Group Mentorship",
+        "description": "Small groups of students working on related research topics under the guidance of a faculty mentor or senior researcher.",
+        "structure": "Weekly group meetings and collaborative research activities",
+        "outcomes": "Collaborative publications, conference presentations, and specialized skill development"
+      }
+    ]
+  },
+  "publications_and_media": {
+    "journal_or_blog": {
+      "title": "Eigenvalues: The Journal of Mathematical Research at IIM Sambalpur",
+      "description": "A peer-reviewed journal showcasing original mathematical research by undergraduate and postgraduate students, with a focus on innovative applications and interdisciplinary approaches.",
+      "frequency": "Bi-annual (April and October)",
+      "scope": "The journal publishes research articles, review papers, and expository works in pure and applied mathematics, with special emphasis on business applications, data science, computational methods, and interdisciplinary research.",
+      "submission_guidelines": {
+        "format": "Manuscripts should be submitted in LaTeX format using the journal template available on our website. Length should be between 3,000-8,000 words including references.",
+        "structure": "Papers should include an abstract (150-250 words), keywords, introduction, methodology, results, discussion, conclusion, and references in APA format.",
+        "originality": "All submissions must be original work not previously published or under consideration elsewhere.",
+        "author_information": "Include names, affiliations, and contact information for all authors, with a designated corresponding author."
+      },
+      "editorial_policy": "All submissions undergo initial screening by the editorial board followed by double-blind peer review by at least two reviewers. Authors may be asked to revise their manuscripts based on reviewer feedback. The editorial board makes final decisions on acceptance.",
+      "peer_review": "Each submission is reviewed by at least one faculty member and one senior student researcher. Reviewers evaluate originality, mathematical rigor, clarity, and significance of the work.",
+      "open_access": "Eigenvalues is an open-access publication available to all readers online. Authors retain copyright of their work under a Creative Commons Attribution License (CC BY)."
+    },
+    "newsletter_template": "# THE EIGEN SOCIETY NEWSLETTER\n## [Month Year] Edition\n\n### PRESIDENT'S MESSAGE\n[Brief message from the society president about recent achievements and upcoming initiatives]\n\n### UPCOMING EVENTS\n- [Event 1 Name] | [Date, Time] | [Location]\n  [Brief description]\n- [Event 2 Name] | [Date, Time] | [Location]\n  [Brief description]\n- [Event 3 Name] | [Date, Time] | [Location]\n  [Brief description]\n\n### RESEARCH SPOTLIGHT\n[Feature on recent research by a society member or faculty, with a brief interview or summary]\n\n### COMPETITION CORNER\n[Updates on recent and upcoming competitions, winners, and preparation resources]\n\n### MEMBER ACHIEVEMENTS\n- [Member Name] [Achievement description]\n- [Member Name] [Achievement description]\n- [Member Name] [Achievement description]\n\n### MATHEMATICAL PUZZLE OF THE MONTH\n[Engaging mathematical puzzle with solution to be published in the next newsletter]\n\n### RESOURCE RECOMMENDATION\n[Book, website, or tool recommendation with brief review]\n\n### ALUMNI CORNER\n[News or article contributed by an alumni member]\n\n### CONNECT WITH US\n[Social media handles and contact information]",
+    "press_spotlight": [
+      {
+        "title": "IIM Sambalpur's Eigen Society Hosts National Mathematics Symposium",
+        "content": "The Eigen Society at IIM Sambalpur successfully organized its third Annual Mathematics Symposium, bringing together over 200 participants from 25 institutions across India. The three-day event featured keynote speeches from renowned mathematicians, student research presentations, and interactive workshops on emerging mathematical applications in business and technology.",
+        "publication": "For press release to local and national educational publications"
+      },
+      {
+        "title": "Eigen Society Members Win Top Honors at Inter-IIM Mathematical Modeling Competition",
+        "content": "A team of three students from IIM Sambalpur's Eigen Society secured first place at the prestigious Inter-IIM Mathematical Modeling Competition held at IIM Ahmedabad. Their innovative solution to optimize urban transportation networks using graph theory and linear programming impressed the judges, earning them the championship trophy and a cash prize of ₹50,000.",
+        "publication": "For institute website and alumni newsletter"
+      },
+      {
+        "title": "Mathematical Research Journal Launched by IIM Sambalpur Students",
+        "content": "The Eigen Society at IIM Sambalpur has launched 'Eigenvalues,' a peer-reviewed journal dedicated to undergraduate and postgraduate mathematical research. The bi-annual publication aims to provide students with a platform to showcase original research, with a special focus on applications of mathematics in business and management contexts.",
+        "publication": "For higher education news outlets"
+      }
+    ]
+  },
+  "awards_and_grants": {
+    "chapter_grants": "The Eigen Society offers Chapter Activity Grants to support innovative mathematical initiatives within the society. Grants ranging from ₹5,000 to ₹20,000 are available for projects that enhance mathematical learning, research, or outreach. Proposals are evaluated based on innovation, impact, feasibility, and alignment with society goals. Applications are accepted twice yearly (July and December) with decisions announced within one month.",
+    "student_awards": [
+      {
+        "name": "Outstanding Mathematical Research Award",
+        "description": "Recognizes exceptional original research conducted by student members.",
+        "eligibility": "Current society members who have completed a research project within the past academic year.",
+        "prize": "₹10,000, certificate, and publication support in the society journal.",
+        "application": "Submission of research paper, faculty recommendation, and research impact statement."
+      },
+      {
+        "name": "Mathematical Excellence Scholarship",
+        "description": "Supports academically outstanding students with demonstrated financial need.",
+        "eligibility": "Society members with CGPA above 8.5/10 and documented financial need.",
+        "prize": "₹15,000 scholarship and mentorship from faculty advisor.",
+        "application": "Academic transcripts, personal statement, and financial documentation."
+      },
+      {
+        "name": "Conference Travel Grant",
+        "description": "Supports students presenting mathematical research at national or international conferences.",
+        "eligibility": "Society members with accepted conference presentations.",
+        "prize": "Up to ₹25,000 for travel, accommodation, and registration expenses.",
+        "application": "Conference acceptance letter, abstract, budget proposal, and faculty endorsement."
+      },
+      {
+        "name": "Community Mathematics Outreach Award",
+        "description": "Recognizes innovative efforts to promote mathematics in the wider community.",
+        "eligibility": "Individual members or teams who have conducted mathematics outreach activities.",
+        "prize": "₹7,500, certificate, and feature in society publications.",
+        "application": "Project report, impact assessment, and testimonials from beneficiaries."
+      }
+    ],
+    "application_templates": [
+      {
+        "name": "Chapter Activity Grant Application",
+        "sections": [
+          {
+            "title": "Project Information",
+            "fields": [
+              "Project Title",
+              "Primary Contact",
+              "Team Members",
+              "Requested Amount (₹)",
+              "Project Timeline (Start and End Dates)"
+            ]
+          },
+          {
+            "title": "Project Description",
+            "fields": [
+              "Project Summary (100 words)",
+              "Detailed Description (500 words)",
+              "Goals and Objectives",
+              "Target Audience and Expected Reach",
+              "Innovation and Uniqueness"
+            ]
+          },
+          {
+            "title": "Implementation Plan",
+            "fields": [
+              "Timeline with Milestones",
+              "Required Resources",
+              "Team Roles and Responsibilities",
+              "Risk Assessment and Mitigation Strategies"
+            ]
+          },
+          {
+            "title": "Budget",
+            "fields": [
+              "Itemized Budget with Justification",
+              "Other Funding Sources (if any)",
+              "Sustainability Plan"
+            ]
+          },
+          {
+            "title": "Impact Assessment",
+            "fields": [
+              "Expected Outcomes",
+              "Evaluation Methods",
+              "Long-term Impact"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Conference Travel Grant Application",
+        "sections": [
+          {
+            "title": "Applicant Information",
+            "fields": [
+              "Full Name",
+              "Student ID",
+              "Email and Phone",
+              "Programme and Year of Study",
+              "Society Membership Status"
+            ]
+          },
+          {
+            "title": "Conference Information",
+            "fields": [
+              "Conference Name",
+              "Conference Dates and Location",
+              "Conference Website",
+              "Presentation Type (Oral/Poster)",
+              "Presentation Title and Abstract"
+            ]
+          },
+          {
+            "title": "Research Description",
+            "fields": [
+              "Research Summary (250 words)",
+              "Significance and Innovation",
+              "Faculty Advisor/Mentor"
+            ]
+          },
+          {
+            "title": "Budget Request",
+            "fields": [
+              "Travel Costs (with quotes)",
+              "Accommodation Costs",
+              "Registration Fee",
+              "Other Expenses",
+              "Total Amount Requested"
+            ]
+          },
+          {
+            "title": "Supporting Documents",
+            "fields": [
+              "Conference Acceptance Letter",
+              "Abstract of Presentation",
+              "Faculty Recommendation Letter",
+              "Academic Transcript"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Award Decision Template",
+        "content": "Dear [Applicant Name],\n\nWe are pleased to inform you that your application for the [Award/Grant Name] has been [approved/selected]. The selection committee was particularly impressed with [specific strength of application].\n\nYou have been awarded [amount/prize details]. [Any specific conditions or next steps].\n\nTo accept this award, please complete the acceptance form at [link] by [deadline]. [Any additional instructions].\n\nCongratulations on this achievement. We look forward to [seeing your presentation/supporting your project/etc.].\n\nSincerely,\n[Committee Chair Name]\n[Award/Grant] Committee Chair\nThe Eigen Society, IIM Sambalpur"
+      }
+    ]
+  },
+  "governance": {
+    "structure": "The Eigen Society operates under a democratic governance structure with elected student leaders and faculty advisors. The Executive Committee oversees all society activities and is elected annually by the general membership. Committee members serve one-year terms (May to April) with a maximum of two consecutive terms in the same position. The society also maintains specialized committees for specific functions such as events, research, and outreach.",
+    "roles": [
+      {
+        "title": "President",
+        "responsibilities": [
+          "Overall leadership and strategic direction of the society",
+          "Chairing Executive Committee meetings",
+          "Representing the society in official capacities",
+          "Coordinating with faculty advisors and institute administration",
+          "Annual reporting and goal-setting"
+        ],
+        "term": "One academic year (May-April)",
+        "eligibility": "Must have been an active member for at least one year"
+      },
+      {
+        "title": "Vice President/Events Coordinator",
+        "responsibilities": [
+          "Planning and execution of all society events",
+          "Managing the events committee",
+          "Venue bookings and logistics coordination",
+          "Speaker and guest management",
+          "Deputizing for the President when required"
+        ],
+        "term": "One academic year (May-April)",
+        "eligibility": "Must have been an active member for at least one semester"
+      },
+      {
+        "title": "Treasurer",
+        "responsibilities": [
+          "Managing society finances and budget",
+          "Processing membership fees and expense reimbursements",
+          "Financial record-keeping and reporting",
+          "Grant and funding applications",
+          "Ensuring compliance with institute financial policies"
+        ],
+        "term": "One academic year (May-April)",
+        "eligibility": "Must have been an active member for at least one semester"
+      },
+      {
+        "title": "Communications Officer",
+        "responsibilities": [
+          "Managing society website and social media",
+          "Creating and distributing newsletters and announcements",
+          "Maintaining membership database",
+          "Publicity for events and initiatives",
+          "External communications and media relations"
+        ],
+        "term": "One academic year (May-April)",
+        "eligibility": "Open to all members"
+      },
+      {
+        "title": "Research Coordinator",
+        "responsibilities": [
+          "Overseeing research initiatives and mentorship programs",
+          "Managing the society journal and publications",
+          "Coordinating with faculty on research opportunities",
+          "Organizing research workshops and presentations",
+          "Administering research grants and awards"
+        ],
+        "term": "One academic year (May-April)",
+        "eligibility": "Must have research experience or be a Research Member"
+      },
+      {
+        "title": "Student Representatives (2 positions)",
+        "responsibilities": [
+          "Representing general membership interests",
+          "Gathering feedback on society activities",
+          "Assisting with member recruitment and engagement",
+          "Supporting other Executive Committee members as needed",
+          "Organizing social and community-building activities"
+        ],
+        "term": "One academic year (May-April)",
+        "eligibility": "Open to all members, with one position reserved for first-year students"
+      },
+      {
+        "title": "Faculty Advisor",
+        "responsibilities": [
+          "Providing academic guidance and mentorship",
+          "Advising on society initiatives and strategic direction",
+          "Facilitating connections with other faculty and departments",
+          "Supporting grant applications and institutional approvals",
+          "Ensuring continuity during leadership transitions"
+        ],
+        "term": "Two academic years (renewable)",
+        "eligibility": "Faculty member at IIM Sambalpur with interest in mathematics"
+      }
+    ],
+    "sample_bylaws_summary": "The Eigen Society operates according to a set of bylaws that govern its activities, membership, and governance. Key provisions include:\n\n1. Membership: Open to all IIM Sambalpur students meeting academic criteria, with different tiers and associated benefits.\n\n2. Governance: Democratic election of Executive Committee annually, with specific roles and responsibilities outlined for each position.\n\n3. Meetings: General body meetings held monthly during the academic year, with Executive Committee meetings held bi-weekly.\n\n4. Elections: Conducted in April each year, with nominations, campaigning, and voting procedures specified.\n\n5. Finances: Membership fees and other funds managed transparently, with annual budgeting and reporting requirements.\n\n6. Activities: Core activities include events, research, publications, competitions, and outreach, with committees established for each area.\n\n7. Amendments: Bylaws may be amended by two-thirds majority vote of the general membership after review by the Executive Committee.\n\n8. Code of Conduct: Members must adhere to academic integrity, respectful communication, and collaborative principles.\n\n9. Dissolution: Procedures for society dissolution and asset distribution in the unlikely event it becomes necessary.\n\n10. Transition: Guidelines for leadership transition and knowledge transfer between outgoing and incoming officers."
+  },
+  "resources": {
+    "teaching_materials": [
+      {
+        "title": "Linear Algebra Fundamentals",
+        "description": "Comprehensive notes on vector spaces, linear transformations, eigenvalues, and eigenvectors with applications.",
+        "format": "PDF lecture notes and practice problems",
+        "level": "Introductory undergraduate"
+      },
+      {
+        "title": "Probability and Statistics for Data Analysis",
+        "description": "Materials covering probability distributions, hypothesis testing, regression analysis, and Bayesian methods.",
+        "format": "Slide decks, R code examples, and datasets",
+        "level": "Intermediate undergraduate"
+      },
+      {
+        "title": "Optimization Techniques in Business",
+        "description": "Case studies and tutorials on linear programming, integer programming, and nonlinear optimization for business applications.",
+        "format": "Case studies, Excel templates, and Python notebooks",
+        "level": "Advanced undergraduate/graduate"
+      },
+      {
+        "title": "Mathematical Modeling Workshop Materials",
+        "description": "Step-by-step guides for developing mathematical models for real-world problems, with examples from various domains.",
+        "format": "Workshop handouts, templates, and example models",
+        "level": "All levels"
+      }
+    ],
+    "problem_sets": [
+      {
+        "title": "Weekly Challenge Problems",
+        "description": "Curated sets of challenging problems across various mathematical domains, updated weekly.",
+        "difficulty": "Variable (Easy to Challenging)",
+        "topics": "Algebra, calculus, discrete mathematics, probability, and more"
+      },
+      {
+        "title": "Competition Preparation Problem Sets",
+        "description": "Problems from past mathematics competitions with solutions and strategy discussions.",
+        "difficulty": "Challenging",
+        "topics": "Competition-style problems requiring creative approaches"
+      },
+      {
+        "title": "Applied Mathematics Case Problems",
+        "description": "Real-world scenarios requiring mathematical modeling and problem-solving approaches.",
+        "difficulty": "Intermediate to Advanced",
+        "topics": "Operations research, financial mathematics, data analysis, optimization"
+      },
+      {
+        "title": "Collaborative Research Problems",
+        "description": "Open-ended research questions suitable for group exploration and extended projects.",
+        "difficulty": "Advanced",
+        "topics": "Current research areas with potential for original contributions"
+      }
+    ],
+    "external_links": [
+      {
+        "name": "Mathematical Association of America (MAA)",
+        "url": "https://www.maa.org/",
+        "description": "Resources, competitions, and publications from the world's largest community of mathematicians, students, and enthusiasts."
+      },
+      {
+        "name": "arXiv Mathematics",
+        "url": "https://arxiv.org/archive/math",
+        "description": "Open-access archive of mathematical research papers across all major fields of mathematics."
+      },
+      {
+        "name": "Indian Statistical Institute",
+        "url": "https://www.isical.ac.in/",
+        "description": "Research, education, and application of statistics, mathematics, and computer science in India."
+      },
+      {
+        "name": "Khan Academy - Mathematics",
+        "url": "https://www.khanacademy.org/math",
+        "description": "Free online courses, lessons, and practice across various mathematical topics."
+      },
+      {
+        "name": "Project Euler",
+        "url": "https://projecteuler.net/",
+        "description": "A series of challenging mathematical and computational problems that require creative problem-solving."
+      },
+      {
+        "name": "International Mathematical Olympiad",
+        "url": "https://www.imo-official.org/",
+        "description": "The world championship mathematics competition for high school students, with problem archives."
+      },
+      {
+        "name": "Society for Industrial and Applied Mathematics (SIAM)",
+        "url": "https://www.siam.org/",
+        "description": "Resources on applied mathematics and computational science for solving real-world problems."
+      }
+    ]
+  },
+  "sitemap": [
+    {
+      "name": "Home",
+      "url": "/",
+      "description": "Main landing page with society overview, featured content, and main CTAs"
+    },
+    {
+      "name": "About",
+      "url": "/about",
+      "description": "Mission, vision, values, history, and leadership of the society",
+      "subpages": [
+        {
+          "name": "Our Story",
+          "url": "/about/story",
+          "description": "History and evolution of the society"
+        },
+        {
+          "name": "Leadership",
+          "url": "/about/leadership",
+          "description": "Current Executive Committee and faculty advisors"
+        }
+      ]
+    },
+    {
+      "name": "Membership",
+      "url": "/membership",
+      "description": "Membership tiers, benefits, eligibility, and application process",
+      "subpages": [
+        {
+          "name": "Join Us",
+          "url": "/membership/join",
+          "description": "Application form and process"
+        },
+        {
+          "name": "Member Benefits",
+          "url": "/membership/benefits",
+          "description": "Detailed explanation of membership advantages"
+        },
+        {
+          "name": "Member Directory",
+          "url": "/membership/directory",
+          "description": "Searchable directory of current members (members-only access)"
+        }
+      ]
+    },
+    {
+      "name": "Events",
+      "url": "/events",
+      "description": "Calendar of upcoming events and archive of past events",
+      "subpages": [
+        {
+          "name": "Calendar",
+          "url": "/events/calendar",
+          "description": "Monthly view of all scheduled events"
+        },
+        {
+          "name": "Annual Symposium",
+          "url": "/events/symposium",
+          "description": "Information about the flagship annual event"
+        },
+        {
+          "name": "Past Events",
+          "url": "/events/archive",
+          "description": "Archive of materials from previous events"
+        }
+      ]
+    },
+    {
+      "name": "Research",
+      "url": "/research",
+      "description": "Research initiatives, publications, and resources",
+      "subpages": [
+        {
+          "name": "Journal",
+          "url": "/research/journal",
+          "description": "Information about the society journal and access to publications"
+        },
+        {
+          "name": "Projects",
+          "url": "/research/projects",
+          "description": "Ongoing and completed research projects"
+        },
+        {
+          "name": "Resources",
+          "url": "/research/resources",
+          "description": "Research guides, tools, and external resources"
+        }
+      ]
+    },
+    {
+      "name": "Competitions",
+      "url": "/competitions",
+      "description": "Information about mathematical competitions and results",
+      "subpages": [
+        {
+          "name": "Upcoming Competitions",
+          "url": "/competitions/upcoming",
+          "description": "Details of forthcoming competitions"
+        },
+        {
+          "name": "Past Results",
+          "url": "/competitions/results",
+          "description": "Archive of previous competition results and winners"
+        },
+        {
+          "name": "Preparation Resources",
+          "url": "/competitions/resources",
+          "description": "Materials to help prepare for competitions"
+        }
+      ]
+    },
+    {
+      "name": "Resources",
+      "url": "/resources",
+      "description": "Educational materials, problem sets, and links",
+      "subpages": [
+        {
+          "name": "Problem Sets",
+          "url": "/resources/problems",
+          "description": "Collection of mathematical problems and solutions"
+        },
+        {
+          "name": "Teaching Materials",
+          "url": "/resources/teaching",
+          "description": "Notes, slides, and other educational resources"
+        },
+        {
+          "name": "Software Tools",
+          "url": "/resources/tools",
+          "description": "Guides for mathematical software and programming"
+        }
+      ]
+    },
+    {
+      "name": "Awards & Grants",
+      "url": "/awards",
+      "description": "Information about available awards, grants, and application processes",
+      "subpages": [
+        {
+          "name": "Student Awards",
+          "url": "/awards/student",
+          "description": "Recognition for outstanding student achievements"
+        },
+        {
+          "name": "Research Grants",
+          "url": "/awards/grants",
+          "description": "Funding opportunities for mathematical research"
+        },
+        {
+          "name": "Travel Support",
+          "url": "/awards/travel",
+          "description": "Assistance for conference attendance and presentations"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "url": "/contact",
+      "description": "Contact information and inquiry form"
+    }
+  ],
+  "seo": {
+    "meta_home": {
+      "title": "The Eigen Society | Mathematics Club of IIM Sambalpur",
+      "description": "Join IIM Sambalpur's premier mathematics club fostering analytical thinking, research collaboration, and practical applications of mathematical concepts."
+    },
+    "meta_about": {
+      "title": "About The Eigen Society | IIM Sambalpur Mathematics Club",
+      "description": "Learn about our mission to foster mathematical excellence through collaborative learning, research, and practical applications at IIM Sambalpur."
+    },
+    "meta_membership": {
+      "title": "Join The Eigen Society | Mathematics Club Membership",
+      "description": "Discover membership benefits including workshops, research opportunities, competitions, and networking with mathematics enthusiasts at IIM Sambalpur."
+    },
+    "meta_events": {
+      "title": "Mathematics Events & Workshops | The Eigen Society",
+      "description": "Attend problem-solving sessions, guest lectures, research workshops, and our annual mathematics symposium at IIM Sambalpur."
+    },
+    "meta_publications": {
+      "title": "Mathematical Research Journal | Eigenvalues Publication",
+      "description": "Explore and contribute to Eigenvalues, the peer-reviewed mathematics research journal by IIM Sambalpur students."
+    },
+    "meta_contact": {
+      "title": "Contact The Eigen Society | IIM Sambalpur",
+      "description": "Get in touch with The Eigen Society at IIM Sambalpur for inquiries about membership, events, collaborations, or general information."
+    },
+    "keywords": [
+      "mathematics club",
+      "IIM Sambalpur",
+      "Eigen Society",
+      "undergraduate research",
+      "math competitions",
+      "mathematical workshops",
+      "student journal",
+      "problem-solving",
+      "faculty mentorship",
+      "linear algebra",
+      "eigenvalues",
+      "mathematical modeling",
+      "business mathematics",
+      "data analysis",
+      "optimization",
+      "statistics",
+      "probability",
+      "academic society",
+      "mathematics symposium",
+      "research opportunities"
+    ]
+  },
+  "social_and_email": {
+    "social_posts": [
+      {
+        "platform": "LinkedIn",
+        "purpose": "Society Launch",
+        "content": "Excited to announce the official launch of The Eigen Society, IIM Sambalpur's premier mathematics club! 🎓✨\n\nWe're building a community of problem-solvers dedicated to exploring the beauty and applications of mathematics through:\n- Collaborative research opportunities\n- Weekly problem-solving sessions\n- Industry-connected workshops\n- Peer-reviewed student publications\n\nWhether you're passionate about pure mathematics or its applications in business and technology, there's a place for you in our society.\n\nJoin us at our inaugural meeting on [DATE] at [TIME], [LOCATION] to learn more about membership benefits and our upcoming events calendar.\n\n#MathematicsClub #IIMSambalpur #EigenSociety #UndergraduateResearch #ProblemSolving"
+      },
+      {
+        "platform": "Instagram",
+        "purpose": "Flagship Event Announcement",
+        "content": "📣 SAVE THE DATE: The Eigen Society Annual Mathematics Symposium is coming! 📣\n\nJoin us February 15-17 for three days of mathematical exploration, featuring:\n\n🔹 Keynote by Dr. Srinivasa Ramanujan Chair from ISI Kolkata\n🔹 Student research presentations\n🔹 Problem-solving competitions with prizes worth ₹50,000\n🔹 Networking with mathematics enthusiasts from across India\n🔹 Workshops on cutting-edge mathematical applications\n\nRegistration opens next week! Early bird discounts available until January 15.\n\nTag a friend who loves mathematics! 👇\n\n#EigenSymposium2023 #MathematicsResearch #IIMSambalpur #EigenSociety #MathCompetition"
+      },
+      {
+        "platform": "X (Twitter)",
+        "purpose": "Call for Submissions",
+        "content": "📝 CALL FOR PAPERS: Eigenvalues Journal Vol. 3 📝\n\nThe Eigen Society @IIMSambalpur invites original mathematical research for our peer-reviewed journal. Undergraduate & graduate submissions welcome!\n\nDeadline: March 15\nTopics: All areas of pure & applied mathematics\nSpecial focus: Mathematical modeling in business\n\nSelected papers presented at our Annual Symposium + publication in our indexed journal.\n\nSubmission guidelines: [LINK]\n\n#MathResearch #StudentPublications #EigenSociety #Eigenvalues #UndergraduateResearch"
+      }
+    ],
+    "email_templates": [
+      {
+        "purpose": "Welcome/Induction",
+        "subject": "Welcome to The Eigen Society at IIM Sambalpur!",
+        "body": "Dear [Name],\n\nCongratulations and welcome to The Eigen Society, IIM Sambalpur's premier mathematics club! We're thrilled to have you join our community of mathematical thinkers and problem-solvers.\n\nYour membership is now active, and your Member ID is [ID]. Here's what you need to know to get started:\n\n🔹 MEMBER PORTAL\nLog in at [URL] using your student email. Your temporary password is [password]. Please change it upon first login.\n\n🔹 UPCOMING EVENTS\nOur next event is [Event Name] on [Date] at [Time] in [Location]. We recommend adding our shared calendar to your schedule: [Calendar Link]\n\n🔹 GET INVOLVED\n- Join our WhatsApp group: [Link]\n- Follow us on Instagram and LinkedIn: @EigenSocietyIIM\n- Attend our New Member Orientation on [Date] at [Time]\n\n🔹 RESOURCES\nAs a member, you now have access to:\n- Our problem sets library\n- Past competition papers\n- Research mentorship opportunities\n- Society journal archives\n\n🔹 YOUR MEMBERSHIP BENEFITS\nAs a [Membership Tier] member, you're entitled to [specific benefits based on tier].\n\nIf you have any questions, please don't hesitate to contact me or any member of our Executive Committee.\n\nWe look forward to seeing you at our next event!\n\nWarm regards,\n\n[Name]\nPresident\nThe Eigen Society\nIIM Sambalpur\n[Contact Information]"
+      },
+      {
+        "purpose": "Event Reminder",
+        "subject": "Reminder: [Event Name] Tomorrow at [Time]",
+        "body": "Dear [Name],\n\nThis is a friendly reminder that you're registered for our event:\n\n[EVENT NAME]\nDate: [Tomorrow's Date]\nTime: [Time]\nLocation: [Location/Online Link]\n\n🔹 EVENT DETAILS\n[Brief description of the event, speaker information, etc.]\n\n🔹 PREPARATION\n[Any materials to review, software to install, or items to bring]\n\n🔹 LOGISTICS\n- For in-person attendees: [Parking information, room location, etc.]\n- For online attendees: [Link, password, technical requirements]\n\nIf you can no longer attend, please let us know by replying to this email so we can offer your spot to someone on the waitlist.\n\nWe look forward to seeing you tomorrow!\n\nBest regards,\n\n[Name]\nEvents Coordinator\nThe Eigen Society\nIIM Sambalpur"
+      },
+      {
+        "purpose": "Membership Renewal",
+        "subject": "Your Eigen Society Membership - Renewal Information",
+        "body": "Dear [Name],\n\nYour membership with The Eigen Society will be expiring on [Date]. We've enjoyed having you as part of our mathematical community this past year and hope you'll continue your journey with us.\n\n🔹 YOUR IMPACT THIS YEAR\nAs a member, you've been part of:\n- [Number] events and workshops\n- Our [specific achievement] that won [award/recognition]\n- A community of [number] mathematics enthusiasts\n\n🔹 RENEWAL OPTIONS\nTo continue your membership, please choose one of the following options:\n\n1. RENEW ONLINE: Visit [URL] and log in with your credentials\n2. IN-PERSON: Visit our office in [Location] during office hours (Mon-Fri, 2-5 PM)\n3. AUTOMATIC RENEWAL: If you selected this option last year, no action is needed\n\nThe renewal fee for [Membership Tier] is ₹[Amount] for the academic year [Year-Year].\n\n🔹 UPGRADE OPPORTUNITY\nConsider upgrading to [Higher Tier] membership to access additional benefits including [specific benefits of higher tier]. The upgrade cost is an additional ₹[Amount].\n\n🔹 WHAT'S NEW NEXT YEAR\nWe're excited to announce several new initiatives for the upcoming year:\n- [New program/event/benefit 1]\n- [New program/event/benefit 2]\n- [New program/event/benefit 3]\n\nIf you have any questions about renewal or would like to discuss your membership options, please contact our Membership Coordinator at [Email].\n\nThank you for being part of The Eigen Society. We hope to continue exploring the world of mathematics with you!\n\nWarm regards,\n\n[Name]\nMembership Coordinator\nThe Eigen Society\nIIM Sambalpur"
+      }
+    ],
+    "hashtag_suggestions": [
+      "#EigenSociety",
+      "#IIMSambalpur",
+      "#MathematicsClub",
+      "#MathResearch",
+      "#StudentMathematics",
+      "#EigenSymposium",
+      "#MathCompetition",
+      "#BusinessMathematics",
+      "#UndergraduateResearch",
+      "#MathematicalModeling",
+      "#ProblemSolving",
+      "#EigenvaluesJournal",
+      "#MathWorkshop",
+      "#AnalyticalThinking",
+      "#MathematicsInBusiness"
+    ]
+  },
+  "site_snippets": {
+    "contact_block": "## Contact The Eigen Society\n\nWe'd love to hear from you! Whether you have questions about membership, events, or collaboration opportunities, our team is here to help.\n\n**Email:** eigen.society@iimsambalpurstudent.ac.in\n\n**Office:** Room 105, Student Activities Center, IIM Sambalpur Campus\n\n**Office Hours:** Monday-Friday, 2:00-5:00 PM (during academic sessions)\n\n**Social Media:** @EigenSocietyIIM on Instagram, LinkedIn, and X\n\nFor specific inquiries, please contact:\n- **Membership:** membership.eigen@iimsambalpurstudent.ac.in\n- **Events:** events.eigen@iimsambalpurstudent.ac.in\n- **Research:** research.eigen@iimsambalpurstudent.ac.in\n- **Media:** media.eigen@iimsambalpurstudent.ac.in",
+    "donate_block": "## Support Mathematical Excellence\n\nYour contribution helps us foster mathematical talent and innovation at IIM Sambalpur. Donations to The Eigen Society support:\n\n- Student research grants\n- Conference travel for presenting research\n- Bringing distinguished speakers to campus\n- Competition prizes and awards\n- Community outreach programs\n\n**How to Donate:**\n- Online: [Donation Portal Link]\n- Bank Transfer: [Account Details]\n- In-person: Visit our office during working hours\n\nAll donations above ₹500 receive a certificate of appreciation and recognition on our website (unless anonymity is requested).\n\nFor corporate sponsorship opportunities, please contact our Treasurer at treasurer.eigen@iimsambalpurstudent.ac.in.",
+    "volunteer_block": "## Get Involved with The Eigen Society\n\nWe welcome volunteers who are passionate about mathematics and want to contribute to our community. Volunteering opportunities include:\n\n- Event organization and logistics\n- Mentoring junior members\n- Content creation for our website and social media\n- Outreach to local schools and colleges\n- Assisting with the annual symposium\n\n**Benefits of Volunteering:**\n- Develop leadership and organizational skills\n- Network with faculty and industry professionals\n- Receive recognition on our website and in our newsletter\n- Letter of recommendation for outstanding volunteers\n\nTo express interest in volunteering, please complete our volunteer form: [Form Link] or email volunteer.eigen@iimsambalpurstudent.ac.in with your areas of interest."
+  },
+  "technical": {
+    "structured_data_ready": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"The Eigen Society\",\n  \"description\": \"Mathematics Club of IIM Sambalpur fostering analytical thinking, research collaboration, and practical applications of mathematical concepts.\",\n  \"url\": \"https://eigensociety.iimsambalpurstudent.ac.in\",\n  \"logo\": \"https://eigensociety.iimsambalpurstudent.ac.in/images/logo.png\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"addressLocality\": \"Sambalpur\",\n    \"addressRegion\": \"Odisha\",\n    \"postalCode\": \"768019\",\n    \"streetAddress\": \"IIM Sambalpur Campus\",\n    \"addressCountry\": \"IN\"\n  },\n  \"email\": \"eigen.society@iimsambalpurstudent.ac.in\",\n  \"member\": [\n    {\n      \"@type\": \"OrganizationRole\",\n      \"roleName\": \"President\",\n      \"member\": {\n        \"@type\": \"Person\",\n        \"name\": \"[Current President Name]\"\n      }\n    },\n    {\n      \"@type\": \"OrganizationRole\",\n      \"roleName\": \"Faculty Advisor\",\n      \"member\": {\n        \"@type\": \"Person\",\n        \"name\": \"[Faculty Advisor Name]\",\n        \"jobTitle\": \"Professor of Mathematics\"\n      }\n    }\n  ],\n  \"event\": {\n    \"@type\": \"Event\",\n    \"name\": \"Annual Mathematics Symposium\",\n    \"startDate\": \"2023-02-15\",\n    \"endDate\": \"2023-02-17\",\n    \"location\": {\n      \"@type\": \"Place\",\n      \"name\": \"IIM Sambalpur Campus\",\n      \"address\": {\n        \"@type\": \"PostalAddress\",\n        \"addressLocality\": \"Sambalpur\",\n        \"addressRegion\": \"Odisha\",\n        \"addressCountry\": \"IN\"\n      }\n    },\n    \"description\": \"Three-day event featuring keynote speeches, student research presentations, and interactive workshops on mathematical applications.\"\n  }\n}",
+    "image_suggestions": [
+      {
+        "purpose": "Logo",
+        "description": "A modern, minimalist logo featuring the Greek letter lambda (λ) integrated with an eigenvalue matrix representation, using purple and blue gradient colors.",
+        "alt_text": "The Eigen Society logo featuring the lambda symbol and eigenvalue matrix representation"
+      },
+      {
+        "purpose": "Homepage Hero",
+        "description": "Abstract visualization of mathematical concepts like eigenvalues, vectors, and matrices, with floating 3D geometric shapes against a gradient background that transitions from deep purple to blue.",
+        "alt_text": "Abstract 3D visualization of mathematical concepts including eigenvalues and matrices"
+      },
+      {
+        "purpose": "About Page Header",
+        "description": "Group photo of diverse society members collaborating on a mathematical problem at a whiteboard or during an event, showing engagement and teamwork.",
+        "alt_text": "Diverse members of The Eigen Society collaborating on mathematical problems"
+      },
+      {
+        "purpose": "Events Page",
+        "description": "Dynamic image of a workshop or symposium in progress, showing speakers and engaged audience members in the IIM Sambalpur lecture hall.",
+        "alt_text": "The Eigen Society workshop in progress at IIM Sambalpur lecture hall"
+      },
+      {
+        "purpose": "Research Section",
+        "description": "Split image showing both theoretical mathematics (equations on a board/paper) and practical applications (data visualization, business analytics dashboard, or real-world problem-solving).",
+        "alt_text": "Mathematical theory and practical applications side by side, representing The Eigen Society's research focus"
+      },
+      {
+        "purpose": "Membership Cards",
+        "description": "Series of cards representing different membership tiers, each with a unique mathematical concept visualization (e.g., vectors for Basic, matrices for Research, networks for Alumni).",
+        "alt_text": "Membership tier cards with mathematical concept visualizations for The Eigen Society"
+      },
+      {
+        "purpose": "Social Media Profile",
+        "description": "Square format image featuring the society logo centered on a gradient background with subtle mathematical equations or symbols as a pattern overlay.",
+        "alt_text": "The Eigen Society logo on a mathematical pattern background"
+      },
+      {
+        "purpose": "Section Icons",
+        "description": "Set of consistent, minimalist icons representing different sections: calculator for resources, trophy for competitions, calendar for events, document for journal, etc.",
+        "alt_text": "Icon set for The Eigen Society website sections"
+      }
+    ],
+    "CTA_text_short": [
+      "Join Our Mathematical Community",
+      "Discover Your Mathematical Potential",
+      "Solve, Collaborate, Innovate"
+    ]
+  },
+  "accessibility_note": "The Eigen Society is committed to making mathematics accessible to all. Our website adheres to WCAG 2.1 AA standards, ensuring content is perceivable, operable, understandable, and robust for users with diverse abilities. We provide alternative text for images, ensure sufficient color contrast, maintain keyboard navigability, and use clear, consistent navigation. If you encounter accessibility barriers or need materials in alternative formats, please contact us at accessibility.eigen@iimsambalpurstudent.ac.in."
+}
