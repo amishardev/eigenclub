@@ -10,7 +10,7 @@ const leaders = [
   {
     name: "Amartya Bhattacharya",
     position: "President",
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+    image: "https://github.com/amishardev/nitk/blob/main/2025BSDSAI014_Amartya%20Bhattacharya.png?raw=true",
     bio: "Leading The Eigen Society with a vision to make mathematics accessible and exciting for all members.",
     linkedin: "#",
     email: "amartya@example.com",
@@ -18,7 +18,7 @@ const leaders = [
   {
     name: "Amish Sharma",
     position: "Vice President",
-    image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop",
+    image: "https://github.com/amishardev/nitk/blob/main/u%20(1).jpg?raw=true",
     bio: "Driving innovation and fostering collaboration within our mathematical community.",
     linkedin: "#",
     email: "amish@example.com",
